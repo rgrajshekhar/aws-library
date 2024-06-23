@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with RG
+          Learn React with RG raj
         </a>
       </header>
     </div>
